@@ -44,11 +44,11 @@ Learning create a complete REST API, documenting endpoints using the OpenAPI spe
 1. Request: customerId e creditCode
 2. Response: creditCode, creditValue, numberOfInstallment, status, emailCustomer e incomeCustomer
 
-<img width="948" height="675" alt="Diagram" src="https://github.com/user-attachments/assets/984ebc0f-b8d5-420d-a521-bb324b032f27" />
+<img width="1536" height="1024" alt="Diagram" src="https://github.com/user-attachments/assets/5969dcfc-d7d9-48e4-9be2-fcba107339fc" />
 
 Simplified UML Diagram of an API for a Credit Rating System
 
-<img width="1163" height="483" alt="Architecture" src="https://github.com/user-attachments/assets/dffa1d25-d19b-48c7-862c-a1671781e74a" />
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/d20b08bd-e4dc-4b0a-923d-e69fab177cdd" />
 
 3-layer architecture Spring Boot project
 
