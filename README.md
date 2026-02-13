@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-## Documenting and Testing Your REST API with Kotlin
+# Documenting and Testing Your REST API with Kotlin
 
 Project developed at TQI Kotlin - Backend Developer Bootcamp, with the guidance of expert [Camila Cavalcante](https://github.com/cami-la/ "Camila Cavalcante").
 Learning create a complete REST API, documenting endpoints using the OpenAPI specification and implementing automated tests to ensure the API functions correctly. The challenge encouraged the use of good programming practices and an understanding of fundamental concepts in testing and documenting REST APIs.
